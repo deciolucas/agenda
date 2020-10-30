@@ -1,3 +1,7 @@
 from django.contrib import admin
 
-# Register your models here.
+from core.models import Evento
+
+# Registrando as tabelas criadas.
+
+admin.site.register(Evento)
