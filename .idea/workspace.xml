@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7283b18-9742-40a5-959a-24ce20705602" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda/agenda/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/agenda/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +11,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectId" id="1jbSkHoFosws1ysqGjKPZQ7hBRX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,29 +86,34 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Segundo Commit do dia configuracao do pycharm" />
     <option name="LAST_COMMIT_MESSAGE" value="Segundo Commit do dia configuracao do pycharm" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="670" height="178" key="GridCell.Tab.0.bottom" timestamp="1604071827297">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604072326611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="670" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604071827297" />
-    <state width="670" height="178" key="GridCell.Tab.0.center" timestamp="1604071827297">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604072326611" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604074201819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="670" height="178" key="GridCell.Tab.0.center/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604071827297" />
-    <state width="670" height="178" key="GridCell.Tab.0.left" timestamp="1604071827296">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604074201819" />
+    <state width="670" height="178" key="GridCell.Tab.0.bottom" timestamp="1604079131940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="670" height="178" key="GridCell.Tab.0.left/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604071827296" />
-    <state width="670" height="178" key="GridCell.Tab.0.right" timestamp="1604071827297">
+    <state width="670" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604079131940" />
+    <state width="670" height="178" key="GridCell.Tab.0.center" timestamp="1604079131940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="670" height="178" key="GridCell.Tab.0.right/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604071827297" />
+    <state width="670" height="178" key="GridCell.Tab.0.center/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604079131940" />
+    <state width="670" height="178" key="GridCell.Tab.0.left" timestamp="1604079131940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="178" key="GridCell.Tab.0.left/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604079131940" />
+    <state width="670" height="178" key="GridCell.Tab.0.right" timestamp="1604079131940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="178" key="GridCell.Tab.0.right/0.0.1366.728/-1280.-66.1280.984@0.0.1366.728" timestamp="1604079131940" />
   </component>
 </project>
