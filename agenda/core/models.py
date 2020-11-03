@@ -10,8 +10,8 @@ class Evento(models.Model):
     #Fazendo com que seja multiusuario
     usuario = models.ForeignKey(User, on_delete=models.CASCADE)
 
-    class Meta:
-       db_table = 'evento'
+    #class Meta:
+    #  db_table = 'evento'
 
     def __str__(self):
         return self.titulo
