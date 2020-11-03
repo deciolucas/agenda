@@ -2,6 +2,11 @@ from django.contrib import admin
 
 from core.models import Evento
 
-# Registrando as tabelas criadas.
+class EventoAdmin(admin.ModelAdmin):
+    list_display = ('titulo', 'data_evento', 'data_criacao')
+    list_filter = ('titulo', 'data_evento',)
 
-admin.site.register(Evento)
+# Registrando as tabelas criadas.
+admin.site.register(Evento, EventoAdmin)
+
+
